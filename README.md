@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space and Rockets
 - 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on building satellite software
-- 📫 How to reach me jonathan.flunger@ucdconnect.ie
+- 📫 How to reach me jonathan.flunger@gmail.com
 
 <!---
 jonathanflunger/jonathanflunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
