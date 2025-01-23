@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jonathanflunger
 - 👀 I’m interested in Space and Rockets
-- 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on building satellite software
 - 📫 How to reach me jonathan.flunger@gmail.com
 
